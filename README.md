@@ -9,7 +9,7 @@ This application is a text editor that runs on the browser. The editor creates n
 ```
 
 ## **Mock-Up:**
-![Image of Project](./public/blog.png)
+![Image of Project](./public/pwa.png)
 
 ## **Application Acceptance Criteria:**
 ```
@@ -44,16 +44,10 @@ THEN I should have proper build scripts for a webpack application
 ```
 - Javascript
 - Node.js
-- Handlebars.js
-- Sequelize
-- Express-session
-- MySQL2
-- dotenv package
-- bcrypt package
+- Webpack Pwa Manifest
 ```
 
 ## **Steps for Future Development:**
 ```
-- keep reviewing code!
-- Design killer front end with time to come!!
+- succesfully deploy to Heroku 
 ```
