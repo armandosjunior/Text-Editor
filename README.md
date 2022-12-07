@@ -4,7 +4,7 @@ This application is a text editor that runs on the browser. The editor creates n
 
 ## **Steps to get started:**
 ```
-- npm i (+ all dependencies)
+- npm i
 - npm run start
 ```
 
