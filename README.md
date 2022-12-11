@@ -49,5 +49,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## **Steps for Future Development:**
 ```
+- Continue to learn node comands/ terminal folder palcements to launch my work
 - succesfully deploy to Heroku 
 ```
