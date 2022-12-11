@@ -5,7 +5,7 @@ This application is a text editor that runs on the browser. The editor creates n
 ## **Steps to get started:**
 ```
 - npm i
-- npm run start
+- node server.js
 ```
 
 ## **Mock-Up:**
